@@ -1,11 +1,4 @@
-# sentiment-analysis-banking-apps-pt
-Hybrid LLM + BERTimbau pipeline for multi-class sentiment classification of Portuguese banking app reviews
-
 # Sentiment Analysis for Banking App Reviews / Análise de Sentimentos em Reviews de Aplicativos Bancários
-
----
-
-## English
 
 ### Project Overview
 **Sentiment Analysis for Banking App Reviews** is a hybrid pipeline combining:
