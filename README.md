@@ -21,4 +21,5 @@ This project transforms large volumes of unstructured user feedback into actiona
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/your-username/bertimbau-sentimentos-bancarios.git
-   cd bertimbau-sentimentos-bancarios
+
+   Upload the notebooks to Google Colab and run.
